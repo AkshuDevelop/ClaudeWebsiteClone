@@ -7,10 +7,7 @@ This project is a clone of the [Claude by Anthropic](https://www.anthropic.com/c
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
@@ -53,11 +50,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 After running the development server, the application will be accessible on your local machine. You can interact with the various components, such as navigating through sections, viewing information, and experiencing the replicated UI.
 
-## Project Structure
-
-Here is a brief overview of the project structure:
-
-## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, feel free to open an issue or submit a pull request.
 
